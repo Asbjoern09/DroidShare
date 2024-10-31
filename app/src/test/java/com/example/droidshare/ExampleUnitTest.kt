@@ -1,4 +1,4 @@
-package dk.sdu.droidshare
+package com.example.droidshare
 
 import org.junit.Test
 

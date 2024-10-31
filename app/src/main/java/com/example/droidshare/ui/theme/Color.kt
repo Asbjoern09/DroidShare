@@ -1,4 +1,4 @@
-package dk.sdu.droidshare.ui.theme
+package com.example.droidshare.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

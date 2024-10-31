@@ -1,4 +1,4 @@
-package dk.sdu.droidshare.ui.theme
+package com.example.droidshare.ui.theme
 
 import android.app.Activity
 import android.os.Build

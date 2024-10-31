@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "dk.sdu.droidshare"
+    namespace = "com.example.droidshare"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "dk.sdu.droidshare"
+        applicationId = "com.example.droidshare"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
